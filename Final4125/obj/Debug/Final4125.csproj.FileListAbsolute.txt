@@ -77,6 +77,5 @@ c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\bin\M
 c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\bin\Microsoft.Owin.Security.Google.xml
 c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\obj\Debug\Final4125.csprojResolveAssemblyReference.cache
 c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\obj\Debug\Final4125.dll
 c:\users\cameryn\documents\visual studio 2015\Projects\Final4125\Final4125\obj\Debug\Final4125.pdb
